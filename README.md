@@ -1,7 +1,17 @@
 <h1 align="center">Hi 👋, I'm Florencia Fernández</h1>
 
-<p align="center"> <a href=https://img.shields.io/badge/Certified%20Tech%20Developer-8A2BE2></a></p>
-<p align="center">Hello! I am an enthusiastic artificial intelligence student at the university, captivated by its ability to transform and enhance our daily and professional activities. My motivation lies in the challenge of working with data and models, where I find enrichment in analyzing various facets to achieve outstanding results. I am an analytical, curious individual, dedicated to teamwork. I am actively seeking new challenges in the IT sector, hopeful to contribute my skills, refine my knowledge, and boost my professional development.</p>
+<p align="center">
+  <a href="https://"><img src="https://img.shields.io/badge/Artificial_Intelligence-affc41?style=for-the-badge" alt="Artificial Intelligence"></a>
+  <a href="https://"><img src="https://img.shields.io/badge/Data_Science-dd2d4a?style=for-the-badge" alt="Data Science"></a>
+  <a href="https://"><img src="https://img.shields.io/badge/Machine_Learning-02c39a?style=for-the-badge" alt="Machine Learning"></a>
+
+<p align="center">
+  <a href="https://"><img src="https://img.shields.io/badge/Certified_Tech_Developer-8A2BE2?style=for-the-badge" alt="Certified Tech Developer"></a>
+</p>
+
+
+
+<p align="center">Hello! I am an enthusiastic Artificial Intelligence student at the University, captivated by its ability to transform and enhance our daily and professional activities. My motivation lies in the challenge of working with data and models, where I find enrichment in analyzing various facets to achieve outstanding results. I am an analytical, curious individual, dedicated to teamwork. I am actively seeking new challenges in the IT sector, hopeful to contribute my skills, refine my knowledge, and boost my professional development.</p>
 
 
 <img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
