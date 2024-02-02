@@ -21,28 +21,30 @@
 
 <img align="right" alt="Data" width="300" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYThtYmo0MTQzN2wzeDU3dnA3NHRyNzZqNTJpaXozdGhtN21ncTRvcSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/SvckSy7fFviqrq8ClF/giphy.gif">
 
-<br>
-<hr width="60%" >
+<div align="left">
+  <hr color="fefae0" width="60%">
+</div>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=py,git,docker" />
   </a>
 </p>
+
+
+<hr color="fefae0" width="35%">
+<h3 align="left">My GitHub Stats</h3>
+<p> <a href="https://github.com/Flor243/github-readme-stats"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Flor243&theme=merko" alt="GitHub Streak" /></a></p>
+<br>
+<br>
 <br>
 
-<hr width="60%" >
-<h3>My GitHub Stats</h3>
-<br>
-<a href="https://github.com/Flor243/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Flor243&theme=merko" alt="GitHub Streak" /></a>
-<br>
+<div align="right">
+  <hr color="fefae0" width="30%">
+</div>
+<h3 align="right">Connect with me:</h3>
+<p>&nbsp;<a href="https://www.linkedin.com/in/florencia-fernandez-dev/"><img align="right" src="https://skillicons.dev/icons?i=linkedin" /></a>
+      <a href="florencia.fernandez.051@gmail.com"><img align="right" src="https://skillicons.dev/icons?i=gmail" /></a></p>
 
-<hr width="60%" >
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/florencia-fernandez-dev/"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-<a href="florencia.fernandez.051@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
-
-</p>
 
 
