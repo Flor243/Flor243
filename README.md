@@ -59,7 +59,20 @@
 <hr color="fefae0" width="45%">
 <h3 align="left">My GitHub Stats:</h3>
 <p> <a href="https://github.com/Flor243/github-readme-stats"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Flor243&theme=merko" alt="GitHub Streak" /></a></p>
-
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<div align="right">
+  <hr color="fefae0" width="30%">
+</div>
 <h3 align="right">Connect with me:</h3>
 <p>&nbsp;<a href="mailto:florencia.fernandez.051@gmail.com"><img align="right" src="https://skillicons.dev/icons?i=gmail" /></a><a href="https://www.linkedin.com/in/florencia-fernandez-dev/"><img align="right" src="https://skillicons.dev/icons?i=linkedin" /></a>
       </p>
