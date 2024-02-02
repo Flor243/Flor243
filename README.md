@@ -22,7 +22,7 @@
 <div align="left">
   <hr color="fefae0" width="100%">
 </div>
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="center">Languages and Tools:</h3>
 <p>
   <img align="left" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
   <img align="left" src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
@@ -71,7 +71,7 @@
 <br>
 
 <div align="right">
-  <hr color="fefae0" width="30%">
+  <hr color="fefae0" width="35%">
 </div>
 <h3 align="right">Connect with me:</h3>
 <p>&nbsp;<a href="mailto:florencia.fernandez.051@gmail.com"><img align="right" src="https://skillicons.dev/icons?i=gmail" /></a><a href="https://www.linkedin.com/in/florencia-fernandez-dev/"><img align="right" src="https://skillicons.dev/icons?i=linkedin" /></a>
