@@ -8,7 +8,11 @@
 <p align="center">
   <a href="https://"><img src="https://img.shields.io/badge/Certified_Tech_Developer-8A2BE2?style=for-the-badge" alt="Certified Tech Developer"></a>
 </p>
+<div align="center">
+  <hr color="fefae0" width="50%" style="margin-top: 3px;">
+</div>
 
+<h3 align="center">About me</h3>
 
 
 <p align="center">Hello! I am an enthusiastic Artificial Intelligence student at the University, captivated by its ability to transform and enhance our daily and professional activities. My motivation lies in the challenge of working with data and models, where I find enrichment in analyzing various facets to achieve outstanding results. I am an analytical, curious individual, dedicated to teamwork.</p>
