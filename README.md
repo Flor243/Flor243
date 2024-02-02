@@ -14,20 +14,19 @@
 
 <h3 align="center">About me</h3>
 
-
 <p align="center">Hello! I am an enthusiastic Artificial Intelligence student at the University, captivated by its ability to transform and enhance our daily and professional activities. My motivation lies in the challenge of working with data and models, where I find enrichment in analyzing various facets to achieve outstanding results. I am an analytical, curious individual, dedicated to teamwork.</p>
 <p align="center">:green_book: I am completing the final semester of the Associate Degree in Artificial Intelligence.</p>
 <p align="center">👩‍💻I am actively seeking new challenges in the IT sector, hopeful to contribute my skills, refine my knowledge, and boost my professional development.</p>
 
 
-<img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYThtYmo0MTQzN2wzeDU3dnA3NHRyNzZqNTJpaXozdGhtN21ncTRvcSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/SvckSy7fFviqrq8ClF/giphy.gif">
+<img align="right" alt="Data" width="300" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYThtYmo0MTQzN2wzeDU3dnA3NHRyNzZqNTJpaXozdGhtN21ncTRvcSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/SvckSy7fFviqrq8ClF/giphy.gif">
 
 <br>
 <hr width="60%" >
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+    <img src="https://skillicons.dev/icons?i=py,git,docker" />
   </a>
 </p>
 <br>
@@ -41,7 +40,9 @@
 <hr width="60%" >
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/florencia-fernandez-dev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anirudh-rai-072732220" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/florencia-fernandez-dev/"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+<a href="florencia.fernandez.051@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+
 </p>
 
 
