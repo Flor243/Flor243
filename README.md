@@ -20,7 +20,7 @@
 
 
 <div align="left">
-  <hr color="fefae0" width="65%">
+  <hr color="fefae0" width="100%">
 </div>
 <h3 align="left">Languages and Tools:</h3>
 <p>
@@ -57,7 +57,7 @@
 <br>
 <img align="right" alt="Data" width="300" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYThtYmo0MTQzN2wzeDU3dnA3NHRyNzZqNTJpaXozdGhtN21ncTRvcSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/SvckSy7fFviqrq8ClF/giphy.gif">
 
-<hr color="fefae0" width="35%">
+<hr color="fefae0" width="45%">
 <h3 align="left">My GitHub Stats:</h3>
 <p> <a href="https://github.com/Flor243/github-readme-stats"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Flor243&theme=merko" alt="GitHub Streak" /></a></p>
 
