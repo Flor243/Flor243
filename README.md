@@ -11,11 +11,12 @@
 
 
 
-<p align="center">Hello! I am an enthusiastic Artificial Intelligence student at the University, captivated by its ability to transform and enhance our daily and professional activities. My motivation lies in the challenge of working with data and models, where I find enrichment in analyzing various facets to achieve outstanding results. I am an analytical, curious individual, dedicated to teamwork. I am actively seeking new challenges in the IT sector, hopeful to contribute my skills, refine my knowledge, and boost my professional development.</p>
+<p align="center">Hello! I am an enthusiastic Artificial Intelligence student at the University, captivated by its ability to transform and enhance our daily and professional activities. My motivation lies in the challenge of working with data and models, where I find enrichment in analyzing various facets to achieve outstanding results. I am an analytical, curious individual, dedicated to teamwork.</p>
+<p align="center">:green_book: I am completing the final semester of the Associate Degree in Artificial Intelligence.</p>
+<p align="center">👩‍💻I am actively seeking new challenges in the IT sector, hopeful to contribute my skills, refine my knowledge, and boost my professional development.</p>
 
 
-<img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
-
+<img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYThtYmo0MTQzN2wzeDU3dnA3NHRyNzZqNTJpaXozdGhtN21ncTRvcSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/SvckSy7fFviqrq8ClF/giphy.gif">
 
 <br>
 <h3 align="left">Languages and Tools:</h3>
@@ -25,7 +26,7 @@
 <hr width="36%" >
 
 <h3>My GitHub Stats</h3>
-<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif" >
+<img align="right" alt="Data" width="200" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif" >
 <br>
 
 
