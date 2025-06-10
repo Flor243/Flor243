@@ -14,7 +14,7 @@
 
 <h3 align="center">About me:</h3>
 
-<p align="center">Hello! I am an enthusiastic Artificial Intelligence student at the University, captivated by its ability to transform and enhance our daily and professional activities. My motivation lies in the challenge of working with data and models, where I find enrichment in analyzing various facets to achieve outstanding results. I am an analytical, curious individual, dedicated to teamwork.</p>
+<p align="center">I am an enthusiastic Artificial Intelligence student at the University, captivated by its ability to transform and enhance our daily and professional activities. My motivation lies in the challenge of working with data and models, where I find enrichment in analyzing various facets to achieve outstanding results. I am an analytical, curious individual, dedicated to teamwork.</p>
 <p align="center">:green_book: I am completing the final semester of the Associate Degree in Artificial Intelligence.</p>
 <p align="center">👩‍💻I am actively seeking new challenges in the IT sector, hopeful to contribute my skills, refine my knowledge, and boost my professional development.</p>
 
